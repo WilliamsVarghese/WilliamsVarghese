@@ -1,3 +1,5 @@
+<img width="1200" height="400" alt="williams-profile" src="https://github.com/user-attachments/assets/b276feec-d68a-4843-af01-af658e5f1276" />
+
 # Williams Varghese
 
 ### Web Development · Python · Cloud Projects
